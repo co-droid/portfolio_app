@@ -1,16 +1,14 @@
-# tetingryt_app
+# PORTFOLIO 
 
-A new Flutter project.
+This is an app containing information about me , icons representing the information corresponding to it.
+this app keeps me updated about my upskill need to add more into my portfolio.
+this app showcases skills and personel information.
 
-## Getting S1tarted
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://user-images.githubusercontent.com/64602660/152607556-b4915446-3b8b-48b2-b1e6-6d53f59393f7.mp4
+
